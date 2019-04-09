@@ -1,0 +1,19 @@
+.main-image {
+background-image: url(../images/train.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.jumbotron {
+    color: #FCFCFC;
+    background-color: rgb(0, 70, 95, 0.8);
+    border-radius: 4px;
+}
+
+.card-header {
+    background-color: rgb(152, 172, 185, 0.5);
+}
+
+.card-background {
+    background-color: rgb(245, 245, 245);
+}
