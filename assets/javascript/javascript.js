@@ -107,5 +107,5 @@ database.ref().on("child_added", function (childSnapshot) {
         // $("<td>").text(nextTrain),
     );
 
-    $("#employee-table > tbody").append(newRow);
+     $("#train-table > tbody").append(newRow);
 });
